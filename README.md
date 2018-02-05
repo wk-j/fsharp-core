@@ -1,5 +1,3 @@
-## Test FSharp.Core Dependencies
-
 ## FSharp.Core 4.3.2 with .NET Standard Support
 
 ```
